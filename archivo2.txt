@@ -1,4 +1,10 @@
 segundo archivo
 cordova
 salas
+<<<<<<< HEAD
 19190525 
+=======
+19190525
+linea nueva
+prueba
+>>>>>>> 2ca1b7f410ba359dbbc75863427be94f6299cf59
